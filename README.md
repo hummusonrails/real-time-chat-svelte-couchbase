@@ -47,7 +47,7 @@ This is a simple real-time chat application built with SvelteKit, Couchbase, and
 
 1. Start the Node.js Server
     ```bash
-    npm run dev
+    node server.cjs
     ```
 2. Start the SvelteKit Application
     ```bash
